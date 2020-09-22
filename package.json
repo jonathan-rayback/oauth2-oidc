@@ -4,6 +4,7 @@
   "description": "goofing around with oauth and oidc",
   "main": "id.js",
   "scripts": {
+    "start": "node id.js",
     "test": "node tests/id_tests.js"
   },
   "repository": {
