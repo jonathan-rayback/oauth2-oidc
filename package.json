@@ -1,0 +1,27 @@
+{
+  "name": "oauth2-oidc",
+  "version": "1.0.0",
+  "description": "goofing around with oauth and oidc",
+  "main": "id.js",
+  "scripts": {
+    "test": "node tests/id_tests.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jonathan-rayback/oauth2-oidc.git"
+  },
+  "keywords": [
+    "oauth",
+    "oidc"
+  ],
+  "author": "Jonathan Rayback",
+  "license": "UNLICENSED",
+  "private": true,
+  "bugs": {
+    "url": "https://github.com/jonathan-rayback/oauth2-oidc/issues"
+  },
+  "homepage": "https://github.com/jonathan-rayback/oauth2-oidc#readme",
+  "devDependencies": {
+    "standard": "^14.3.4"
+  }
+}
